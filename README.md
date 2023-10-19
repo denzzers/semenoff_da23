@@ -44,6 +44,15 @@
 
 ## ***Выявления прибыльного тарифа для телеком-компании***
 
+**Файл проекта:** [#03_Project_Статический анализ данных_Определение лучшего тарифа оператора сотовой связи.ipynb](https://github.com/denzzers/semenoff_da23/blob/main/%2303_Project_Статический%20анализ%20данных_Определение%20лучшего%20тарифа%20оператора%20сотовой%20связи.ipynb)
+|  | **Информация** | 
+|:----:|----|
+| **Описание проекта** | Необходимо сделать предварительный анализ тарифов "Ультра" и "Смарт" оператора сотовой связи "Мегалайн" на небольшой выборке клиентов, чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. |
+| **Используемые библиотеки** | pandas, seaborn, matplotlib, numpy |
+| **Приобритенные навыки** | <ul><li>Предобработка данных</li><li>Анализ данных</li><li>Построение гистограмм</li><li>Основы теории вероятности</li><li>Формирование статичесих гипотез, с последующей их проверкой</li></ul> |
+| Проект на nbviewer.org | [Выявления прибыльного тарифа для телеком-компании](https://nbviewer.org/github/denzzers/semenoff_da23/blob/main/%2303_Project_Статический%20анализ%20данных_Определение%20лучшего%20тарифа%20оператора%20сотовой%20связи.ipynb) |
+| Файл данных для проекта | <ul><li>[Скачать файл - users.csv](https://drive.google.com/file/d/1XBhd53Rsd9V6l-K3LPD7ryo9A1pa6eHU/view?usp=share_link)</li><li>[Скачать файл - calls.csv](https://drive.google.com/file/d/1wgA3_c5NyZQ6NPKVcm_OFbEd_e65pWWS/view?usp=share_link)</li><li>[Скачать файл - messages.csv](https://drive.google.com/file/d/1Ts7Z0HIzW9u95kyyihvHI0vbJiO3Bo9h/view?usp=share_link)</li><li>[Скачать файл - internet.csv](https://drive.google.com/file/d/1dF2TdxO-VX9kO8zOIR1JdXpVhPCI9EwJ/view?usp=share_link)</li><li>[Скачать файл - tariffs.csv](https://drive.google.com/file/d/1ZQEMMqiEJqE9c4XRukiHwwJvqW34cOuz/view?usp=share_link)</li></ul> |
+
 [:house:Перечень проектов](#Перечень-проектов)
 
 ## ***Выявление определяющих успешность игры закономерностей***
