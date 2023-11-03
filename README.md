@@ -78,7 +78,7 @@
 | **Используемые инструменты** | Язык запросов SQL |
 | **Приобритенные навыки** | <ul><li>Оператор WHERE</li><li>Операторы IN, LIKE, BETWEEN</li><li>Оператор GROUP BY</li><li>Оператор HAVING</li><li>ER-диаграммы</li><li>Оператор JOIN и его типы</li><li>Подзапросы в FROM и WHERE</li></ul> |
 | **Проект на pastebin.com** | [Анализ данных о фондах и инвестициях (SQL)](https://pastebin.com/72mAm9L4) |
-| **Файл данных для проекта** | [Скачать файл - games.csv](https://drive.google.com/file/d/1z8EVwrc7x4cX4lkZZs4yXcqnEpDK5NwO/view?usp=drive_link) |
+| **ER-диаграмма** | [Посмотреть файл - basic_sql_project.pdf](https://github.com/denzzers/semenoff_da23/blob/main/ER-diagrams/basic_sql_project.pdf) |
 
 [:house:Перечень проектов](#Перечень-проектов)
 
