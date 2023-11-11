@@ -84,6 +84,15 @@
 
 ## ***Анализ доходности приложения Procrastinate Pro+***
 
+**Файл проекта:** [#06_Project_Анализ доходности приложения Procrastinate Pro+.ipynb](https://github.com/denzzers/semenoff_da23/blob/main/%2306_Project_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Procrastinate%20Pro%2B.ipynb)
+|  | **Информация** | 
+|:----:|----|
+| **Описание проекта** | Вы — маркетинговый аналитик развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Ваша задача — разобраться в причинах и помочь компании выйти в плюс. |
+| **Используемые библиотеки** | pandas, numpy, seaborn, matplotlib, scipy, datetime |
+| **Приобритенные навыки** | <ul><li>Предобработка данных</li><li>Анализ данных</li><li>Расчеты LTV,CAC,ROI и Retention Rate</li><li>Когортный анализ</li></ul> |
+| **Проект на nbviewer.org** | [Анализ доходности приложения Procrastinate Pro+](https://nbviewer.org/github/denzzers/semenoff_da23/blob/main/%2306_Project_Анализ%20доходности%20приложения%20Procrastinate%20Pro%2B.ipynb) |
+| **Файл данных для проекта** | <ul><li>[Скачать файл - visits_info_short.csv](https://drive.google.com/file/d/1ToLQ3b62IMM_oQ-5TCBCfjyv2oGkGeRq/view?usp=sharing)</li><li>[Скачать файл - orders_info_short.csv](https://drive.google.com/file/d/1OI_vAbXaWTJqRrYYREG2x7Hnt9Od54zy/view?usp=sharing)</li><li>[Скачать файл - real_estate_data.csv](https://drive.google.com/file/d/16Y9Fj_4pI9YaJprGulWRNLAtBmdCzulw/view?usp=sharing)</li></ul> |
+
 [:house:Перечень проектов](#Перечень-проектов)
 
 ## ***Анализ базы данных пользователей StackOverflow (SQL)***
