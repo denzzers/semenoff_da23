@@ -97,6 +97,15 @@
 
 ## ***Анализ базы данных пользователей StackOverflow (SQL)***
 
+**Файлы проекта:** <ul><li>[#07_Project_Part_01_Анализ базы данных пользователей StackOverflow (SQL).txt](https://github.com/denzzers/semenoff_da23/blob/main/%2307_Project_Part_01_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20StackOverflow%20(SQL).txt)</li><li>[#07_Project_Part_02_Анализ базы данных пользователей StackOverflow (SQL).txt](https://github.com/denzzers/semenoff_da23/blob/main/%2307_Project_Part_02_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20StackOverflow%20(SQL).txt)
+|  | **Информация** | 
+|:----:|----|
+| **Описание проекта** | В самостоятельном проекте вам нужно проанализировать данные о фондах и инвестициях и написать запросы к базе. Задания будут постепенно усложняться, но всё необходимое для их выполнения: операторы, функции, методы работы с базой — вы уже изучили на курсе. К каждому заданию будет небольшая подсказка: она направит вас в нужную сторону, но подробного плана действий не предложит. |
+| **Используемые инструменты** | Язык запросов SQL |
+| **Приобритенные навыки** | <ul><li>Оператор WHERE</li><li>Операторы IN, LIKE, BETWEEN</li><li>Оператор GROUP BY</li><li>Оператор HAVING</li><li>ER-диаграммы</li><li>Оператор JOIN и его типы</li><li>Подзапросы в FROM и WHERE</li></ul> |
+| **Проект на pastebin.com** | [Анализ данных о фондах и инвестициях (SQL)](https://pastebin.com/72mAm9L4) |
+| **ER-диаграмма** | [Посмотреть файл - basic_sql_project.pdf](https://github.com/denzzers/semenoff_da23/blob/main/ER-diagrams/basic_sql_project.pdf) |
+
 [:house:Перечень проектов](#Перечень-проектов)
 
 ## ***Приоритезация гипотез по увеличению выручки интернет-магазина, оценка результатов А/B-тестов***
