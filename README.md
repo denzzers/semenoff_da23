@@ -110,6 +110,15 @@
 
 ## ***Приоритезация гипотез по увеличению выручки интернет-магазина, оценка результатов А/B-тестов***
 
+**Файл проекта:** []()
+|  | **Информация** | 
+|:----:|----|
+| **Описание проекта** | Вы — аналитик крупного интернет-магазина. Вместе с отделом маркетинга вы подготовили список гипотез для увеличения выручки.</br></br>Приоритизируйте гипотезы, запустите A/B-тест и проанализируйте результаты.  |
+| **Используемые библиотеки** | pandas, numpy, matplotlib, scipy, datetime |
+| **Приобритенные навыки** | <ul><li>Предобработка данных</li><li>Анализ данных</li><li>Приоритезация гипотез посредством ICE и RICE</li><li>Расчет и анализ показателей: кумулятивной выручки, среднего чека и конверсии</li><li>A/B-тест</li></ul> |
+| **Проект на nbviewer.org** | [Анализ доходности приложения Procrastinate Pro+](https://nbviewer.org/github/denzzers/semenoff_da23/blob/main/%2306_Project_Анализ%20доходности%20приложения%20Procrastinate%20Pro%2B.ipynb) |
+| **Файл данных для проекта** | <ul><li>[Скачать файл - visits_info_short.csv](https://drive.google.com/file/d/1ToLQ3b62IMM_oQ-5TCBCfjyv2oGkGeRq/view?usp=sharing)</li><li>[Скачать файл - orders_info_short.csv](https://drive.google.com/file/d/1OI_vAbXaWTJqRrYYREG2x7Hnt9Od54zy/view?usp=sharing)</li><li>[Скачать файл - real_estate_data.csv](https://drive.google.com/file/d/16Y9Fj_4pI9YaJprGulWRNLAtBmdCzulw/view?usp=sharing)</li></ul> |
+
 [:house:Перечень проектов](#Перечень-проектов)
 
 ## ***Изучение поведения пользователей мобильного приложения продуктов питания***
